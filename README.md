@@ -1,1 +1,1 @@
-# Magento-2-WhatsApp-Message-Widget
+# Magento 2-WhatsApp Message Widget
